@@ -1,0 +1,7 @@
+{
+  "rewrites": [
+    { "source": "/api/opportunities", "destination": "/api/opportunities.js" },
+    { "source": "/api/catalog", "destination": "/api/catalog.js" },
+    { "source": "/api/copilot", "destination": "/api/copilot.js" }
+  ]
+}
